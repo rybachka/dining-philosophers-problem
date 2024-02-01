@@ -1,0 +1,10 @@
+# ninja log v5
+623	663	1706091888263186184	Dinning_philosophers_problem	b549e9fe302e3e3e
+7	623	1706091888219590727	CMakeFiles/Dinning_philosophers_problem.dir/main.cpp.o	ff2b0cd6c8dee43d
+0	301	1706092030509472539	build.ninja	eb1453e8dd2758c
+4	524	1706092066270807845	CMakeFiles/Dinning_philosophers_problem.dir/main.cpp.o	f7c4a6f5240af891
+524	566	1706092066316529465	Dinning_philosophers_problem	b549e9fe302e3e3e
+5	638	1706092179709745137	CMakeFiles/Dinning_philosophers_problem.dir/main.cpp.o	f7c4a6f5240af891
+638	685	1706092179761287571	Dinning_philosophers_problem	b549e9fe302e3e3e
+4	580	1706210489115976217	CMakeFiles/Dinning_philosophers_problem.dir/main.cpp.o	f7c4a6f5240af891
+580	624	1706210489164162858	Dinning_philosophers_problem	b549e9fe302e3e3e

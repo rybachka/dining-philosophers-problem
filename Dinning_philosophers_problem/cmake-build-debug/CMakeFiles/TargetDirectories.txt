@@ -1,0 +1,3 @@
+/Users/mariiarybak/Documents/2024/PRO_SO/Dinning_philosophers_problem/cmake-build-debug/CMakeFiles/Dinning_philosophers_problem.dir
+/Users/mariiarybak/Documents/2024/PRO_SO/Dinning_philosophers_problem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mariiarybak/Documents/2024/PRO_SO/Dinning_philosophers_problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
